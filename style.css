@@ -16,7 +16,7 @@
 .text{
     color: #000000;
     font-size: medium;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: oblique;
 }
 
@@ -27,3 +27,11 @@
     border-radius: 10px;
 }
 
+
+
+.img-zara{
+    width: 100px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
