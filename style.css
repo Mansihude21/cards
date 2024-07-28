@@ -1,0 +1,21 @@
+.product-card{
+    background-color: #c2c2d6;
+    width: 250px;
+    padding: 10px 5px;
+    border-radius: 10px;
+    border: 5px double #14141f;
+}
+
+.img-doremon{
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.text{
+    color: #000000;
+    font-size: medium;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: oblique;
+}
