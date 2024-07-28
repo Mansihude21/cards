@@ -4,10 +4,11 @@
     padding: 10px 5px;
     border-radius: 10px;
     border: 5px double #14141f;
+    margin: 20px;
 }
 
-.img-doremon{
-    width: 200px;
+.img-anarkli{
+    width: 100px;
     display: block;
     margin: 10px auto;
     border-radius: 10px;
@@ -27,11 +28,28 @@
     border-radius: 10px;
 }
 
-
-
 .img-zara{
     width: 100px;
     display: block;
     margin: 10px auto;
     border-radius: 10px;
+}
+
+.img-sandal{
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.btn-add-to-card{
+    background-color: #14141f;
+    color: #e6e6e6;
+    padding: 5px 20px;
+    border-radius: 30px;
+    border: none;
+    margin: 20px;
+    display: block;
+    margin: 10px auto;
+
 }
