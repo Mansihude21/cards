@@ -19,3 +19,11 @@
     font-family: "Lucida Console", "Courier New", monospace;
     font-style: oblique;
 }
+
+.img-puma{
+    width: 100px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
