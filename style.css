@@ -42,6 +42,14 @@
     border-radius: 10px;
 }
 
+.img-Tote-Bag{
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+
+}
+
 .btn-add-to-card{
     background-color: #14141f;
     color: #e6e6e6;
